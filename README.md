@@ -25,6 +25,7 @@ ________________________________________
 Getting Started
 Smart Contract Details
 •	Contract Address: 0xed2880853d71e9f706BDaA50d053d848d682e48d
+•	Contract Address: [0xad7b1c6C0bB48B657A244FE8A6971EeAce4Baf36](https://bscscan.com/address/0xad7b1c6C0bB48B657A244FE8A6971EeAce4Baf36#code)
 •	Blockchain: Binance Smart Chain (BSC)
 •	Standard: BEP-20
 Interact with the Token
